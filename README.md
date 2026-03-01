@@ -72,7 +72,13 @@ npm run preview
 ├── tsconfig.json
 └── vite.config.ts
 ```
+## Contributions
+
+Feel free to fork or clone the repository and make any changes. 😊
+```bash
+  git clone https://github.com/Spyd3r05/morimochi.git
+```
 
 ## License
 
-MIT (or your preferred license).
+All rights reserved.
